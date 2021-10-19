@@ -1,6 +1,6 @@
 # online_course_app - Flutter Template
 
-![Kapture 2021-10-19 at 15 05 02](https://user-images.githubusercontent.com/28912774/137852996-676d8552-9012-4fda-9174-3fc37d9186df.gif)
+![Kapture 2021-10-19 at 15 12 10](https://user-images.githubusercontent.com/28912774/137853693-0cb3a4c2-12c8-4e32-812d-d4c2768ffc1e.gif)
 
 ## Packages
 
