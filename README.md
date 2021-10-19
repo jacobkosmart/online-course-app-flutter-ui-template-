@@ -2,7 +2,7 @@
 
 ![Kapture 2021-10-19 at 15 12 10](https://user-images.githubusercontent.com/28912774/137853693-0cb3a4c2-12c8-4e32-812d-d4c2768ffc1e.gif)
 
-![test](https://drive.google.com/uc?export=view&id=1-NAnw5TTfao67R57a2B1rQQhBLuCVOCY)
+![test](assets/images/test.gif)
 
 ## Packages
 
